@@ -21,7 +21,6 @@ Estudiar la relación entre el precio de venta y la cantidad vendida.
 Analizar la política de precios y su efecto en las ventas.
 Medir el rendimiento financiero de la empresa.
 Determinar que productos son más rentables.
-Este análisis tiene como objetivo proporcionar una comprensión profunda del
-comportamiento de compra de los clientes, las preferencias de productos y
-otros factores relevantes que puedan influir en el rendimiento comercial del
+
+Este análisis tiene como objetivo proporcionar una comprensión profunda del comportamiento de compra de los clientes, las preferencias de productos y otros factores relevantes que puedan influir en el rendimiento comercial del
 local.
